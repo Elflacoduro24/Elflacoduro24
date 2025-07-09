@@ -29,8 +29,8 @@ Soy estudiante de Ingeniería de Sistemas con enfoque en desarrollo web, anális
 ---
 
 ## 🤝 Conecta conmigo
-- 💼 [LinkedIn](https://www.linkedin.com/in/tu-usuario) *(Actualízalo con tu enlace real)*
-- 📧 Correo: sebastian.silvera@email.com *(Reemplázalo si prefieres otro)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/sebastian-silvera-pacheco-b21033267?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+- 📧 Correo: sebassilvera2003@gmail.com 
 
 ---
 
